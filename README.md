@@ -16,7 +16,7 @@ It is designed like a zoo exhibit card showing details about the animal group.
      -HTML
      -CSS
 ## Project Preview
-! [Zoo Webpage] (zoo-page.png)
+! [Zoo Webpage](zoo-page.png)
 ## Author
 Yohana Tekle
 ## GitHub Profile
