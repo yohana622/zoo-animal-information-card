@@ -20,4 +20,4 @@ It is designed like a zoo exhibit card showing details about the animal group.
 ## Author
 Yohana Tekle
 ## GitHub Profile
-https://github.com/yohana622
+https://github.com/yohana622/zoo-animal-information-card.git
