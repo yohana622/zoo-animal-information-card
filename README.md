@@ -1,4 +1,4 @@
-# Hi.I'm Yohana Tekle
+# Hi, I'm Yohana Tekle
 student interested in technology and programming.
 # Zoo Animal Information Card
 Thisproject is a single-page website created for a web development lecture.
@@ -16,7 +16,7 @@ It is designed like a zoo exhibit card showing details about the animal group.
      -HTML
      -CSS
 ## Project Preview
-! [Zoo Webpage] (images/zoo-page.png)
+! [Zoo Webpage] (zoo-page.png)
 ## Author
 Yohana Tekle
 ## GitHub Profile
