@@ -12,7 +12,7 @@ The webpage presents information about insects from the class Insecta. It is des
   -Image display 
   -rounded card design
 # Live Demo
-
+https://yohana622.github.io/zoo-Animal-Information-Card/
 
 ## Author
 Yohana Tekle
